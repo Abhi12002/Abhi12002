@@ -1,22 +1,21 @@
 name: Generate snake animation
 
 on:
+  workflow_dispatch:    # Allows manual triggering
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 0 * * *"  # Runs daily at midnight
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v2
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.actor }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push
-        uses: ad-m/github-push-action@master
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
+          commit_message: "Generated snake animation"
