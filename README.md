@@ -69,7 +69,7 @@
 
 | Project | Description |
 |--------|-------------|
-| **[📊 Olympics Analysis](https://github.com/Abhi12002/olympics-analysis)** | Interactive Streamlit app using Plotly for exploring Olympic statistics. |
+| **[📊 Olympics Analysis](https://github.com/Abhi12002/Olympic-Analysis-Project)** | Interactive Streamlit app using Plotly for exploring Olympic statistics. |
 | **[🧠 Sentiment Analysis](https://github.com/Abhi12002/sentiment-analysis)** | Deep learning NLP app using LSTM & BERT with TensorFlow + Hugging Face. |
 | **[📉 Diabetes Prediction](https://github.com/Abhi12002/diabetes-prediction)** | ML models using Logistic Regression, Decision Trees, Random Forest (84% accuracy). |
 | **[🖼️ Image Classification](https://github.com/Abhi12002/image-classification)** | CNN-based deep learning project for image classification (82% accuracy). |
