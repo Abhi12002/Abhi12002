@@ -73,6 +73,7 @@
 | **[🧠 Sentiment Analysis](https://github.com/Abhi12002/sentiment-analysis)** | Deep learning NLP app using LSTM & BERT with TensorFlow + Hugging Face. |
 | **[📉 Diabetes Prediction](https://github.com/Abhi12002/diabetes-prediction)** | ML models using Logistic Regression, Decision Trees, Random Forest (84% accuracy). |
 | **[🖼️ Image Classification](https://github.com/Abhi12002/image-classification)** | CNN-based deep learning project for image classification (82% accuracy). |
+| **[🚗 Vehicle Insurance Predictor](https://github.com/Abhi12002/Vehicle-Insurance-Predictor-Project)** | End-to-end ML pipeline with MongoDB, AWS deployment, and CI/CD via GitHub Actions. |
 
 ---
 
