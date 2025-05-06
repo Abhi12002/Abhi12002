@@ -69,6 +69,7 @@
 
 | Project | Description |
 |--------|-------------|
+| **[🧠 24-hours-SelfHackathon](https://github.com/Abhi12002/24-hours-SelfHackathon)** | Built in 24 hours: AI-powered resume matcher + skill gap analyzer + GPT-4 cover letter generator using Streamlit, NLP, and OpenAI. |
 | **[📊 Olympics Analysis](https://github.com/Abhi12002/Olympic-Analysis-Project)** | Interactive Streamlit app using Plotly for exploring Olympic statistics. |
 | **[🧠 Sentiment Analysis](https://github.com/Abhi12002/sentiment-analysis)** | Deep learning NLP app using LSTM & BERT with TensorFlow + Hugging Face. |
 | **[📉 Diabetes Prediction](https://github.com/Abhi12002/diabetes-prediction)** | ML models using Logistic Regression, Decision Trees, Random Forest (84% accuracy). |
