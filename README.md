@@ -17,6 +17,22 @@
 
 ---
 
+## 🗣️ Testimonials
+
+<p align="center">
+  <a href="./Abhinav's_reference-letter-HLyu.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Reference_Letter-View-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Reference Letter Badge" />
+  </a>
+</p>
+
+> “Abhinav consistently demonstrated intellectual curiosity, participated actively in discussions, and approached complex topics with enthusiasm and critical thinking. His ability to draw connections between technical concepts and real-world applications was particularly impressive.”
+>
+> - Dr. Hongli Lyu, Assistant Professor, Lakehead University
+
+[📄 Read the full reference letter (PDF)](./Abhinav's_reference-letter-HLyu.pdf)
+
+---
+
 ## 🧰 Tech Stack
 
 <p align="center">
