@@ -96,6 +96,7 @@
 
 | Project | Description |
 |--------|-------------|
+| **[🩺 Complete Advanced Medical ChatBot](https://github.com/Abhi12002/CompleteAdvanced-MedicalChatBot)** | AI-powered RAG chatbot for the medical domain using LangChain, Pinecone, HuggingFace embeddings, and GPT-4o. Flask-based web UI, Dockerized, with CI/CD to AWS EC2. |
 | **[🧠 JobFit AI (24-Hour Hackathon)](https://github.com/Abhi12002/24-hours-SelfHackathon)** | GPT-powered resume matcher, skill gap analyzer & cover letter generator. Achieved 92% parsing accuracy; deployed with Streamlit and OpenAI API. |
 | **[📉 Diabetes Prediction](https://github.com/Abhi12002/diabetes-prediction)** | End-to-end ML pipeline (RF/SVM/LogReg, GUI frontend). Achieved ~93% validation accuracy. |
 | **[🚗 Vehicle Insurance Predictor](https://github.com/Abhi12002/Vehicle-Insurance-Predictor-Project)** | Full ML pipeline with MongoDB, AWS deployment, and CI/CD via GitHub Actions. |
