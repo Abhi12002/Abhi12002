@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <span style="color:#FF6F61;">Abhinav Mishra</span> 👋</h1>
-<h3 align="center">Data Scientist | AI/ML Engineer | Building Scalable AI Solutions</h3>
+<h3 align="center">Junior Data Engineer | Building Scalable AI Solutions</h3>
 
 <p align="center">
   <img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" alt="Data Science Banner" width="70%" />
