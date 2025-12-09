@@ -12,7 +12,7 @@
 🎓 **CS Graduate (Lakehead University, 2025 – First Class Honours)**  
 🤖 I build scalable AI solutions for real-world problems using ML, NLP, and cloud technologies.  
 ⚙️ **Skills:** Python, MLOps, LLMs, Hugging Face, AWS, Docker, Kubernetes, GenAI.
-📈 Delivered ML projects with 80–93% accuracy and deployed full pipelines to production.  
+📈 Delivered ML projects with 80–93% accuracy and deployed full pipelines to production.
 🌐 **Portfolio:** [abhi12002.github.io](https://abhi12002.github.io)  
 📬 **Email:** [mishraabinav30@gmail.com](mailto:mishraabinav30@gmail.com)
 
