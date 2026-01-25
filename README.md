@@ -2,6 +2,11 @@
 <h3 align="center">AI Data Engineer @ FMP | Building Scalable AI Solutions</h3>
 
 <p align="center">
+  <b>👋 Hello and welcome to my GitHub profile!</b><br>
+  <i>I'm excited to share my journey in AI and Machine Learning with you.</i>
+</p>
+
+<p align="center">
   <img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" alt="Data Science Banner" width="70%" />
 </p>
 
